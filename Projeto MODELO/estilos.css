@@ -1,0 +1,82 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('fundo.png');
+}
+
+.box-principal {
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 900px;
+    height: 388px;
+}
+
+a {
+    text-decoration: none;
+    color: #43566a;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.alinhamento {
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.barravertical {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.sobre {
+    width: 885px;
+    margin-left: 5px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+    background-color: #fcfbec;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo {
+    margin: 0;
+    padding: 0;
+    color: #88876f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.footer {
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.barrameio {
+    width: 900px;
+    background-color: #d3d3be;
+    padding: 0px;
+    margin-left: 5px;
+}
+
+.bordas {
+    border: 10px solid #d3d3be;
+    margin-bottom: 12px;
+}
+
+.contatos {
+    display: inline-block;
+}
+
+.negrito {
+    display: inline-block;
+    line-height: 3px;
+    font-weight: 700;
+}
